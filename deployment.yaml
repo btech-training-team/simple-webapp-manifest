@@ -17,7 +17,7 @@ spec:
       #serviceAccount: jenkins
       containers:
         - name: simple-webapp
-          image: docker.io/atwatanmalikm/webapp:2210150757
+          image: docker.io/atwatanmalikm/webapp:tes
           ports:
             - containerPort: 80
 
