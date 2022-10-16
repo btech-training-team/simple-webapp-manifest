@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: simple-webapp
-          image: docker.io/atwatanmalikm/webapp:2210160322
+          image: docker.io/atwatanmalikm/webapp:2210160326
           ports:
             - containerPort: 80
 
